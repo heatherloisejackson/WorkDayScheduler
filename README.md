@@ -8,7 +8,7 @@ As an employee with a busy schedule, this application allows me to add important
 Open the Index.html in Chrome or open the application link directly: [WorkDayScheduler](https://heatherloisejackson.github.io/WorkDayScheduler/)
 
 ## Usage
-![ApplicationScreenshot](
+![ApplicationScreenshot](https://github.com/heatherloisejackson/WorkDayScheduler/blob/main/Assets/Screen%20Shot%202021-04-04%20at%2012.10.07%20AM.png)
 
 ## Credits
 This application was created with credit to Penn LPS Coding Bootcamp, my intructor, my classmates, [jQuery](https://jquery.com/), [Bootstrap](https://getbootstrap.com/), [Google Fonts](https://fonts.google.com/), and [FontAwesome](https://fontawesome.com/).
