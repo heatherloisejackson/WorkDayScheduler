@@ -14,9 +14,8 @@ Open the Index.html in Chrome or open the application link directly: [WorkDaySch
 This application was created with credit to Penn LPS Coding Bootcamp, my intructor, my classmates, [jQuery](https://jquery.com/), [Bootstrap](https://getbootstrap.com/), [Google Fonts](https://fonts.google.com/), and [FontAwesome](https://fontawesome.com/).
 
 ## License
-MIT License
+![MIT License](https://img.shields.io/apm/l/vim-mode)
 
 ---
 
 ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
